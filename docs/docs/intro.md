@@ -3,46 +3,16 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Calcifer Studios
 
-Let's discover **Docusaurus in less than 5 minutes**.
+O Calcifer studios é um estúdio de desenvolvimento de games desenvolvido que está sendo criado por alguns estudantes universitários da área de TI, que tem como seu fundador Breno Santos.
 
-## Getting Started
+## Objetivos 
 
-Get started by **creating a new site**.
+Atualmente, nosso foco principal é desencadear experiências verdadeiramente inesquecíveis para cada jogador. Nosso compromisso vai além da estética inicial, pois visamos criar jogos que transcendem a mera beleza visual. Buscamos construir experiências completas, onde a riqueza visual, a jogabilidade envolvente e uma narrativa cativante convergem para formar uma verdadeira obra de arte interativa. Acreditamos firmemente que os jogos não são apenas fontes de diversão, mas sim manifestações artísticas que têm o poder de transcender o entretenimento comum. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
+### Projetos
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
